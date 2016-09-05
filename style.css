@@ -1,0 +1,44 @@
+.gornji {
+    text-align: right;
+    font-family: helvetica;
+    font-size: 15px;
+}
+.main {
+    top: 300px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer {
+    width: 800px;
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    left:50%;
+    margin-left: -400px;
+    background-color: lightgoldenrodyellow;
+    font-family: helvetica;
+    font-size: 15px;
+}
+#input  {
+    width: 600px;
+    height: 30px;
+}
+.SignIn {
+    background-color: cornflowerblue;
+    color: white;
+    width: 80px;
+    height: 25px;
+}
+.button {
+    width: 150px;
+    height: 30px;
+    background-color: lavender;
+}
+a  {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
